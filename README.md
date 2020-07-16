@@ -1,5 +1,8 @@
 ## 平台简介
 
+
+**写在前面：node-sass安装时需要查看与node的对应版本是否一致，查看地址[https://github.com/sass/node-sass/releases](https://github.com/sass/node-sass/releases) 建议用cnpm install 安装**
+
 * 前端采用Vue、Element UI。
 * 后端采用Spring Boot、Spring Security、Redis & Jwt。
 * 权限认证使用Jwt，支持多终端认证系统。
@@ -32,7 +35,7 @@
 
 ## 在线体验
 
-- admin/admin123  
+- admin/admin123
 - 陆陆续续收到一些打赏，为了更好的体验已用于演示服务器升级。谢谢各位小伙伴。
 
 演示地址：http://vue.ruoyi.vip  
@@ -56,7 +59,7 @@
 	<tr>
         <td><img src="https://oscimg.oschina.net/oscnet/71c2d48905221a09a728df4aff4160b8607.jpg"/></td>
         <td><img src="https://oscimg.oschina.net/oscnet/c14c1ee9a64a6a9c2c22f67d43198767dbe.jpg"/></td>
-    </tr>	 
+    </tr>
     <tr>
         <td><img src="https://oscimg.oschina.net/oscnet/5e8c387724954459291aafd5eb52b456f53.jpg"/></td>
         <td><img src="https://oscimg.oschina.net/oscnet/644e78da53c2e92a95dfda4f76e6d117c4b.jpg"/></td>
